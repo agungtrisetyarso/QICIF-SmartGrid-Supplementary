@@ -1,0 +1,14 @@
+QICIF-SmartGrid-Supplementary/
+├── README.md
+├── requirements.txt
+├── data/
+│   └── calibrated_labor_data_2015_2024.csv     # (you can add synthetic or real data)
+├── figures/
+│   ├── fig1_labor_share_time_series.png
+│   ├── fig2_oscillatory_isoquants_3d.png
+│   └── fig3_reskilling_damping.png
+├── scripts/
+│   ├── fig1_labor_share.py
+│   ├── fig2_isoquants_3d.py
+│   └── fig3_reskilling_damping.py
+└── main_simulation.py                          # (optional full QuTiP model)
