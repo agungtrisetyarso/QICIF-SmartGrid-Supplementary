@@ -1,7 +1,7 @@
 # Supplementary Materials: Quantum-Inspired Modeling of Oscillatory Task Substitution in Smart-Grid Automation
 
 **Repository for the paper**  
-**"Quantum-Inspired Modeling of Oscillatory Task Substitution in Smart-Grid Automation: Implications for Labor Reallocation in Renewable Energy Transitions"**  
+**"An Operator Model of Automation Task Substitution for Oscillatory Stability Analysis in Low-Inertia Smart Grids"**  
 by Agung Trisetyarso, Buyung Sofiarto Munir, and Kridanto Surendro
 
 ---
