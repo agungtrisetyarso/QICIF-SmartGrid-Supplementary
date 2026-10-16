@@ -1,4 +1,3 @@
-# Supplementary Materials: Quantum-Inspired Modeling of Oscillatory Task Substitution in Smart-Grid Automation
 
 **Repository for the paper**  
 **"An Operator Model of Automation Task Substitution for Oscillatory Stability Analysis in Low-Inertia Smart Grids"**  
